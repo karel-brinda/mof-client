@@ -10,15 +10,31 @@ Supplementary files for the paper
 <!-- vim-markdown-toc GFM -->
 
 * [BIGSIdata](#bigsidata)
-  * [decompress-bigsi-data](#decompress-bigsi-data)
+* [GISP](#gisp)
+* [NCTC3k](#nctc3k)
+* [SC2](#sc2)
 
 <!-- vim-markdown-toc -->
 
 
+
+
 ## BIGSIdata
 
-
-
-### [decompress-bigsi-data](BIGSIdata/decompress-bigsi-data)
+**[decompress-bigsi-data](BIGSIdata/decompress-bigsi-data)**
 
 Program to decompress phylogenetically compressed de Bruijn graphs from Fig 2.
+
+
+## GISP
+
+* [Results of the ngono scaling experiment](GISP/gisp_ngen_scaling.tsv)
+
+## NCTC3k
+
+* [Results of the NCTC3k scaling experiment](NCTC3k/nctc3k_ngen_scaling.tsv)
+
+## SC2
+
+* [Results of the SC2 scaling experiment](NCTC3k/nctc3k_ngen_scaling.tsv)
+
